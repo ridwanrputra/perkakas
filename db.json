@@ -1,1 +1,3 @@
-["Ford", "BMW", "Fiat"]
+{
+	"table": ["Ford", "BMW", "Fiat"]
+}
